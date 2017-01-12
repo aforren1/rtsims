@@ -15,6 +15,8 @@ Aiming to include:
        the same stimulus/response pair
      - Weighting based on recent history (e.g. if stimulus hasn't 
        occurred in awhile, greater P(choice)
+     - Two-stage accumulation (same/different + n-1 choice) vs.
+       single-stage (heavily weighted 'same' choice)
   - Learning effects
      - Exponential & power law over blocks/days
 
